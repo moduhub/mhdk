@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "MHDevKits",
+      "maintainer": "ModuHub Tecnologia LTDA",
+      "websiteURL": "http://www.moduhub.com/",
+      "email": "developers@moduhub.com",
+      "platforms": [
+        {
+          "name": "ModuHub DevKits",
+          "architecture": "avr",
+          "version": "1.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://moduhub.com/developers/doc/devkit_mini.html"
+          },
+          "url": "https://raw.githubusercontent.com/moduhubtecnologia/mhdk/master/mhdk-1.0.0.tar.gz",
+          "archiveFileName": "mhdk-1.0.0.tar.gz",
+          "checksum": "SHA-256:e136973bf360fd4cab3bbc8e4671f3b7493f7743f620265ae65302f7f51db0bc",
+          "size": "112747",
+          "boards": [
+            {"name": "ModuHub Mini DK"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
