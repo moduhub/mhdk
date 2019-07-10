@@ -14,10 +14,10 @@
           "help": {
             "online": "http://moduhub.com/developers/doc/devkit_mini.html"
           },
-          "url": "https://raw.githubusercontent.com/moduhub/mhdk/master/mhdk-1.0.0.tar.gz",
-          "archiveFileName": "mhdk-1.0.0.tar.gz",
-          "checksum": "SHA-256:e136973bf360fd4cab3bbc8e4671f3b7493f7743f620265ae65302f7f51db0bc",
-          "size": "112747",
+          "url": "https://raw.githubusercontent.com/moduhub/mhdk/master/mhdk-1.0.0.zip",
+          "archiveFileName": "mhdk-1.0.0.zip",
+          "checksum": "SHA-256:ee3adfe63363919411a59f69c5c740da2455acb00ffef799c398f8edc31c9ddb",
+          "size": "182841",
           "boards": [
             {"name": "ModuHub Mini DK"}
           ],
