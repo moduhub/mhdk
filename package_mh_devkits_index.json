@@ -14,7 +14,7 @@
           "help": {
             "online": "http://moduhub.com/developers/doc/devkit_mini.html"
           },
-          "url": "https://raw.githubusercontent.com/moduhubtecnologia/mhdk/master/mhdk-1.0.0.tar.gz",
+          "url": "https://raw.githubusercontent.com/moduhub/mhdk/master/mhdk-1.0.0.tar.gz",
           "archiveFileName": "mhdk-1.0.0.tar.gz",
           "checksum": "SHA-256:e136973bf360fd4cab3bbc8e4671f3b7493f7743f620265ae65302f7f51db0bc",
           "size": "112747",
