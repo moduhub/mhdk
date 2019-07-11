@@ -16,8 +16,8 @@
           },
           "url": "https://raw.githubusercontent.com/moduhub/mhdk/master/mhdk-1.0.0.zip",
           "archiveFileName": "mhdk-1.0.0.zip",
-          "checksum": "SHA-256:c135ac60d543c7fc6d4e1e41e7ed31697ee672280aec9e7d58eacb89a4669cf6",
-          "size": "167254",
+          "checksum": "SHA-256:8f1ea019f1fa7937969bce3539d259ce7f95038d9c5d2d03539c911e507555e5",
+          "size": "182840",
           "boards": [
             {"name": "ModuHub Mini DK"}
           ],
